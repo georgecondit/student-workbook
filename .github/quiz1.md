@@ -41,7 +41,7 @@ Cascading Style Sheets allow the developer to add styles to elements within the 
 ```
 <!-- enter you answer in the space below -->
 ```
-The 3 components of a `CSS` rule are the element,
+The 3 components of a `CSS` rule are the selector, ,
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
