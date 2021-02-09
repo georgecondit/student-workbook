@@ -3,7 +3,8 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+Keywords are const, var, let. "const" is for variable that will never change. "var" is more 
+for declaring globally scoped variables.
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
