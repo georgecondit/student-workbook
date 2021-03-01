@@ -30,7 +30,7 @@ A promise is when you send a request for something to server and the response mu
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+one can use get, post, put and delete
 
 ```
 **7.** What does the `API` acronym stand for?
@@ -41,13 +41,13 @@ Application Programming Interface
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+the sservice
 
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
-
+ to keep things separate
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
