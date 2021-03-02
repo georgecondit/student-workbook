@@ -18,3 +18,16 @@ https://github.com/georgecondit/Music-Is-Fun.git
 
 https://github.com/georgecondit/Den-of-Geeks.git
 
+https://github.com/georgecondit/swapi.git
+
+https://github.com/georgecondit/spellbook.git
+
+https://github.com/georgecondit/latewinter2021-gregslist.git
+
+https://github.com/georgecondit/PokEAPI.git
+
+https://github.com/georgecondit/VendoMatic.git
+
+//March 1st, 2021
+https://github.com/georgecondit/nnode-intro.git
+
