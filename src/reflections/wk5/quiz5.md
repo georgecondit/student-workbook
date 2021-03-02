@@ -3,7 +3,7 @@
 **1.** What do the letters of the acronym `CRUD` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Create Read Update Delete
 ```
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 <!-- enter you answer in the space below -->
