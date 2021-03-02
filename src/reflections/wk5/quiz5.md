@@ -3,27 +3,28 @@
 **1.** What do the letters of the acronym `CRUD` stand for?
 <!-- enter you answer in the space below -->
 ```
-Create Read Update Delete
+Create, Read, Update, & Delete
 ```
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 <!-- enter you answer in the space below -->
 ```
+.Post = create, .get = read, .edit = update, and .delete = delete. 
 
 ```
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+NOTE ORM stands for Object Relational Mapping. It is used to translate data between incompatible type systems with the use of OOP languages, like Js.
+In MongoDB ORM is 
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
-
+A post and an edit request both use body in the function. If you want to create an entry you post it, and put is an edit request.
 ```
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
-```
-
+```Synchronuos, Asynchronous
 ```
 
 **6.** Fill in the missing piece of this snippet of code.
