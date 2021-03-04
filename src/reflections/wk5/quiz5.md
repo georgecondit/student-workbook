@@ -34,21 +34,23 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+express express
+mongoose
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-
+It is the interface between you and the database. It sets up the protocols and rules for dealing with the database in the 
+testing sandbox and in real time usage.
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+request pipeline, response pipeline
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+api/christmas/?tag=winter
 ```
