@@ -40,8 +40,7 @@ mongoose
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-It is the interface between you and the database. It sets up the protocols and rules for dealing with the database in the 
-testing sandbox and in real time usage.
+It is the interface between you and the database. It sets up the rules and protocols for the knight.
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
