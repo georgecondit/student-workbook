@@ -31,3 +31,7 @@ https://github.com/georgecondit/VendoMatic.git
 //March 1st, 2021
 https://github.com/georgecondit/nnode-intro.git
 
+https://github.com/georgecondit/vue3-playground.git
+
+https://github.com/georgecondit/nasapod.git
+
