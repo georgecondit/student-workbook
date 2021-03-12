@@ -3,7 +3,7 @@
 **1.** When using the Vue `cli` what is the command to initialize a project?
 <!-- enter you answer in the space below -->
 ```
-npm intstall
+npm install
 ```
 **2.** Where can you find the scripts to startup you project on localhost?
 <!-- enter you answer in the space below -->
