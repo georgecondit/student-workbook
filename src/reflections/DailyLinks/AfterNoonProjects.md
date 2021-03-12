@@ -35,3 +35,5 @@ https://github.com/georgecondit/vue3-playground.git
 
 https://github.com/georgecondit/nasapod.git
 
+https://github.com/georgecondit/gregslist-practice.git
+
