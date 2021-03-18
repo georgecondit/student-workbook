@@ -30,7 +30,11 @@ modified. -->
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
+<<<<<<< HEAD
 The request line, the headers, and the body of the request (normally used to pass form parameters). 
+=======
+one can use get, post, put and delete
+>>>>>>> 6fa06b8461d85ce640b0a3b544505ea4263f5916
 
 ```
 **7.** What does the `API` acronym stand for?
@@ -41,18 +45,26 @@ Application Programming Interface
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
+<<<<<<< HEAD
 Within the Api Service file there is a class that sends the get requeset to the api, then the consructor declares the function and it is called by an actual separate function in the API class where it is then invoked by the constructor
+=======
+the sservice
+>>>>>>> 6fa06b8461d85ce640b0a3b544505ea4263f5916
 
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
 ```
+<<<<<<< HEAD
 The purpose of encapsulation is to create layers of security to keep sotred information safe on the host server. Encapsulation also maintains modularization of the application so that it can be reused without be repeated elsewhere
+=======
+ to keep things separate
+>>>>>>> 6fa06b8461d85ce640b0a3b544505ea4263f5916
 ```
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-200
+200 my favorite is 218 though
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
