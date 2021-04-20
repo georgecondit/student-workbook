@@ -37,3 +37,10 @@ https://github.com/georgecondit/nasapod.git
 
 https://github.com/georgecondit/gregslist-practice.git
 
+https://github.com/georgecondit/painters.git
+
+https://github.com/georgecondit/partyplanner.git
+
+https://github.com/georgecondit/castleknights.git
+
+https://github.com/georgecondit/burgers.git
